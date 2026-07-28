@@ -23,7 +23,7 @@ header{
 }
 
 header h1{
-    color:#5a189a;
+    color:#0F766E;
     margin:0 0 8px;
 }
 
@@ -68,7 +68,7 @@ form{
 
 form h2{
     text-align:center;
-    color:#5a189a;
+    color:#0F766E;
     margin-top:0;
     margin-bottom:20px;
 }
@@ -76,7 +76,7 @@ form h2{
 label{
     display:block;
     margin-bottom:6px;
-    color:#4b2e83;
+    color:#0F766E;
     font-weight:bold;
 }
 
@@ -87,7 +87,7 @@ input[type="number"]{
     width:100%;
     padding:10px;
     margin-bottom:18px;
-    border:1px solid #c7b7ea;
+    border:1px solid #99F6E4;
     border-radius:6px;
     font-size:15px;
     background:white;
@@ -95,8 +95,8 @@ input[type="number"]{
 
 input:focus{
     outline:none;
-    border-color:#7b2cbf;
-    box-shadow:0 0 5px rgba(123,44,191,.35);
+    border-color:#14B8A6;
+    box-shadow:0 0 5px rgba(20,184,166,.35);
 }
 
 
@@ -106,7 +106,7 @@ button,
 input[type="submit"]{
     width:100%;
     padding:12px;
-    background:#7b2cbf;
+    background:#14B8A6;
     color:white;
     border:none;
     border-radius:6px;
@@ -118,7 +118,7 @@ input[type="submit"]{
 
 button:hover,
 input[type="submit"]:hover{
-    background:#5a189a;
+    background:#0F766E;
 }
 
 
@@ -129,14 +129,14 @@ input[type="submit"]:hover{
     max-width:550px;
     margin:30px auto;
     padding:20px;
-    background:#f3e8ff;
-    border-left:8px solid #7b2cbf;
+    background:#ECFEFF;
+    border-left:8px solid #14B8A6;
     border-radius:8px;
     box-shadow:0 3px 10px rgba(0,0,0,.15);
 }
 
 .results-container h2{
-    color:#5a189a;
+    color:#0F766E;
     text-align:center;
     margin-top:0;
 }
@@ -155,7 +155,7 @@ input[type="submit"]:hover{
     padding:14px;
     margin-bottom:15px;
     background:white;
-    border:1px solid #d8b4fe;
+    border:1px solid #99F6E4;
     border-radius:8px;
 }
 
@@ -204,7 +204,7 @@ input[type="submit"]:hover{
 }
 
 .gestion-servicios > h2{
-    color:#5a189a;
+    color:#0F766E;
     text-align:center;
     margin-bottom:10px;
 }
@@ -229,15 +229,15 @@ input[type="submit"]:hover{
     max-width:1100px;
     margin:35px auto;
     padding:25px;
-    background:#f3e8ff;
-    border-left:8px solid #7b2cbf;
+    background:#ECFEFF;
+    border-left:8px solid #14B8A6;
     border-radius:10px;
     box-shadow:0 3px 10px rgba(0,0,0,.15);
     overflow-x:auto;
 }
 
 .tabla-container h2{
-    color:#5a189a;
+    color:#0F766E;
     text-align:center;
     margin-top:0;
     margin-bottom:22px;
@@ -251,14 +251,14 @@ table{
 }
 
 thead{
-    background:#7b2cbf;
+    background:#14B8A6;
     color:white;
 }
 
 th,
 td{
     padding:12px 14px;
-    border:1px solid #d8b4fe;
+    border:1px solid #99F6E4;
     text-align:left;
     vertical-align:middle;
 }
@@ -268,11 +268,11 @@ th{
 }
 
 tbody tr:nth-child(even){
-    background:#faf5ff;
+    background:#F0FDFA;
 }
 
 tbody tr:hover{
-    background:#f3e8ff;
+    background:#ECFEFF;
 }
 
 th:first-child,
@@ -302,7 +302,7 @@ td:nth-child(6){
 .boton-enlace{
     display:inline-block;
     padding:12px 20px;
-    background:#7b2cbf;
+    background:#14B8A6;
     color:white;
     text-decoration:none;
     border-radius:6px;
@@ -311,7 +311,7 @@ td:nth-child(6){
 }
 
 .boton-enlace:hover{
-    background:#5a189a;
+    background:#0F766E;
 }
 
 
@@ -333,7 +333,7 @@ td:nth-child(6){
 
 hr{
     border:none;
-    border-top:1px solid #d8b4fe;
+    border-top:1px solid #99F6E4;
     margin:20px 0;
 }
 
@@ -381,7 +381,7 @@ select{
     width:100%;
     padding:10px;
     margin-bottom:18px;
-    border:1px solid #c7b7ea;
+    border:1px solid #99F6E4;
     border-radius:6px;
     background:white;
     font-size:15px;
@@ -391,7 +391,7 @@ select{
 select:focus{
 
     outline:none;
-    border-color:#7b2cbf;
-    box-shadow:0 0 5px rgba(123,44,191,.35);
+    border-color:#14B8A6;
+    box-shadow:0 0 5px rgba(20,184,166,.35);
 
 }
